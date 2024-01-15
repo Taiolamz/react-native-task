@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f8236fc4-f6f1-4fc5-ac17-1af90ae6c616"
+      }
+    },
+    "owner": "hassanlamidi",
+    "android": {
+      "package": "com.hassanlamidi.react_native_jobs"
+    }
+  }
+}
